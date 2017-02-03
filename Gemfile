@@ -5,10 +5,12 @@ source "https://rubygems.org"
 
 # Add dependencies to develop your gem here.
 # Include everything needed to run rake, tests, features, etc.
+
+gem 'faraday', '~> 0.8'
+gem 'faraday_middleware', '>= 0.8'
+gem 'hashie', '< 4.0.0', '>= 0.8'
+
 group :development do
-  gem 'faraday', '~> 0.8'
-  gem 'faraday_middleware', '>= 0.8'
-  gem 'hashie', '< 4.0.0', '>= 0.8'
   gem 'test-unit', '~> 3.0'
   gem 'shoulda', '>= 0'
   gem "rdoc", "~> 3.12"
