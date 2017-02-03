@@ -66,9 +66,9 @@ Gem::Specification.new do |s|
     s.specification_version = 4
 
     if Gem::Version.new(Gem::VERSION) >= Gem::Version.new('1.2.0') then
-      s.add_development_dependency(%q<faraday>.freeze, ["~> 0.8"])
-      s.add_development_dependency(%q<faraday_middleware>.freeze, [">= 0.8"])
-      s.add_development_dependency(%q<hashie>.freeze, ["< 4.0.0", ">= 0.8"])
+      s.add_runtime_dependency(%q<faraday>.freeze, ["~> 0.8"])
+      s.add_runtime_dependency(%q<faraday_middleware>.freeze, [">= 0.8"])
+      s.add_runtime_dependency(%q<hashie>.freeze, ["< 4.0.0", ">= 0.8"])
       s.add_development_dependency(%q<test-unit>.freeze, ["~> 3.0"])
       s.add_development_dependency(%q<shoulda>.freeze, [">= 0"])
       s.add_development_dependency(%q<rdoc>.freeze, ["~> 3.12"])
