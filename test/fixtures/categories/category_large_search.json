@@ -1,0 +1,95 @@
+{
+  "@attributes": {
+    "api_version": "20150630"
+  },
+  "category_l": [
+    {
+      "category_l_code": "RSFST09000",
+      "category_l_name": "居酒屋"
+    },
+    {
+      "category_l_code": "RSFST02000",
+      "category_l_name": "日本料理・郷土料理"
+    },
+    {
+      "category_l_code": "RSFST03000",
+      "category_l_name": "すし・魚料理・シーフード"
+    },
+    {
+      "category_l_code": "RSFST04000",
+      "category_l_name": "鍋"
+    },
+    {
+      "category_l_code": "RSFST05000",
+      "category_l_name": "焼肉・ホルモン"
+    },
+    {
+      "category_l_code": "RSFST06000",
+      "category_l_name": "焼き鳥・肉料理・串料理"
+    },
+    {
+      "category_l_code": "RSFST01000",
+      "category_l_name": "和食"
+    },
+    {
+      "category_l_code": "RSFST07000",
+      "category_l_name": "お好み焼き・粉物"
+    },
+    {
+      "category_l_code": "RSFST08000",
+      "category_l_name": "ラーメン・麺料理"
+    },
+    {
+      "category_l_code": "RSFST14000",
+      "category_l_name": "中華"
+    },
+    {
+      "category_l_code": "RSFST11000",
+      "category_l_name": "イタリアン・フレンチ"
+    },
+    {
+      "category_l_code": "RSFST13000",
+      "category_l_name": "洋食"
+    },
+    {
+      "category_l_code": "RSFST12000",
+      "category_l_name": "欧米・各国料理"
+    },
+    {
+      "category_l_code": "RSFST16000",
+      "category_l_name": "カレー"
+    },
+    {
+      "category_l_code": "RSFST15000",
+      "category_l_name": "アジア・エスニック料理"
+    },
+    {
+      "category_l_code": "RSFST17000",
+      "category_l_name": "オーガニック・創作料理"
+    },
+    {
+      "category_l_code": "RSFST10000",
+      "category_l_name": "ダイニングバー・バー・ビアホール"
+    },
+    {
+      "category_l_code": "RSFST21000",
+      "category_l_name": "お酒"
+    },
+    {
+      "category_l_code": "RSFST18000",
+      "category_l_name": "カフェ・スイーツ"
+    },
+    {
+      "category_l_code": "RSFST19000",
+      "category_l_name": "宴会・カラオケ・エンターテイメント"
+    },
+    {
+      "category_l_code": "RSFST20000",
+      "category_l_name": "ファミレス・ファーストフード"
+    },
+    {
+      "category_l_code": "RSFST90000",
+      "category_l_name": "その他の料理"
+    }
+  ]
+}

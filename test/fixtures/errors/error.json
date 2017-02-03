@@ -1,0 +1,9 @@
+{
+  "@attributes": {
+    "api_version": "20150630"
+  },
+  "error": {
+    "code": "601",
+    "message": "Invalid keyid(1)"
+  }
+}

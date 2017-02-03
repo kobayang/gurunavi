@@ -1,0 +1,11 @@
+{
+  "gnavi": {
+    "@attributes": {
+      "api_version": "20150630"
+    },
+    "error": {
+      "code": 601,
+      "message": "アクセスキーが不正です。"
+    }
+  }
+}

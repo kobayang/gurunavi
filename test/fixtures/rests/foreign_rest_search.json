@@ -1,0 +1,662 @@
+{
+  "@attributes": {
+    "api_version": "20150630"
+  },
+  "total_hit_count": "85360",
+  "hit_per_page": "10",
+  "page_offset": "1",
+  "rest": [
+    {
+      "@attributes": {
+        "order": "0"
+      },
+      "id": "ga13300",
+      "update_date": "2017-02-03 04:55:30",
+      "name": {
+        "name": "完全個室居酒屋 魚喜～UOKI～ 新宿東口総本店",
+        "name_kana": "カンゼンコシツイザカヤウオキ シンジュクヒガシグチソウホンテン"
+      },
+      "business_hour": " ランチ：11:30～15:00<BR>月～日 15:00～24:00",
+      "holiday": "無",
+      "contacts": {
+        "address": "〒160-0021 東京都新宿区歌舞伎町1-6-3 東海苑ビル9F",
+        "tel": "050-5513-9817",
+        "fax": "03-5155-7089"
+      },
+      "sales_points": {
+        "pr_short": "▼新宿駅東口2分！3名様～団体様まで個室完備 ▼新鮮な海鮮料理をリーズナブルに堪能！新年会に ▼3H飲み放題付コース2980円～！週末も3HOKプランも有",
+        "pr_long": "【拘り旬食材を贅沢個室空間で頂く自慢の料理】<BR>朝採れ野菜・産直鮮魚の大漁盛り・鹿児島産薩摩豚・<BR>恵水産フグ・黒毛和牛…厳選食材を低価格でご提供致します。<BR>【洗練された内装の個室完備】<BR>2名様～御案内！ソファー席や掘り炬燵席と多様なお席完備！<BR>10名～20名様の中規模宴会も！貸切は最大100名様まで◎新年会に<BR><BR>【ぐるなび限定！3時間飲み放題付おすすめプラン】<BR>全8品『宮城産カキ＆奈良産カモが名物のプラン』   3980円⇒2980円<BR>全8品『”洋風海鮮鍋”の魚介三昧プラン』   4480円⇒3480円<BR>全9品『黒毛和牛ステーキ＆”選べる贅沢鍋”のプラン』5480円⇒4480円<BR>全9品『鮮魚の船盛り＆フグてっちりコース』   6480円⇒5480円<BR>【魚喜の限定クーポン】<BR>・団体様特典！幹事様1名分無料！<BR>・新年会や飲み会に！お得な30％OFF割引！"
+      },
+      "access": "ＪＲ新宿駅東口 徒歩2分  西武新宿線西武新宿駅 徒歩3分",
+      "budget": "3000",
+      "credit_card": {},
+      "categories": {
+        "category": "新宿完全個室ダイニング",
+        "category_name_l": [
+          "居酒屋",
+          {
+            "@attributes": {
+              "order": "1"
+            }
+          }
+        ],
+        "category_name_s": [
+          "居酒屋",
+          {
+            "@attributes": {
+              "order": "1"
+            }
+          }
+        ]
+      },
+      "flags": {
+        "mobile_site": "1",
+        "mobile_coupon": "1",
+        "pc_coupon": "1"
+      },
+      "location": {
+        "latitude": "35.690289",
+        "longitude": "139.705728",
+        "latitude_wgs84": "35.693525",
+        "longitude_wgs84": "139.702514",
+        "area": {
+          "district": "関東",
+          "prefname": "東京都",
+          "areaname_s": "新宿東口・歌舞伎町"
+        }
+      },
+      "url": "http://r.gnavi.co.jp/ga13300/?ak=XY3Fo%2F8BbCJCjr9ZLgBZSkueRqwAyp4kKwTbc39aPiU%3D",
+      "url_mobile": "http://mobile.gnavi.co.jp/shop/ga13300/?ak=XY3Fo%2F8BbCJCjr9ZLgBZSkueRqwAyp4kKwTbc39aPiU%3D",
+      "image_url": {
+        "thumbnail": "https://uds.gnst.jp/rest/img/1s8mc4rz0000/t_0n5h.jpg?t=1486067378&g=80",
+        "qrcode": "https://c-r.gnst.jp/tool/qr/?id=ga13300&q=6"
+      }
+    },
+    {
+      "@attributes": {
+        "order": "1"
+      },
+      "id": "g064200",
+      "update_date": "2017-02-01 12:25:07",
+      "name": {
+        "name": "スプラッシュ ",
+        "name_kana": "スプラッシュ"
+      },
+      "business_hour": "月～金 17:00～翌5:00(L.O.4:00)<BR>土 17:00～23:30(L.O.22:30)",
+      "holiday": "毎週日曜日<BR>年末年始（2017年12月31日～2018年1月3日）<BR>※◆日曜・祝日の貸切パーティー営業応相談  ★特別営業★ 2017年2月11日（土）祝日・2017年3月19日（日）2017年4月29日（土）祝日",
+      "contacts": {
+        "address": "〒104-0061 東京都中央区銀座7-2-20 パシフィック銀座ビル7F",
+        "tel": "050-5518-7239",
+        "fax": "03-5568-7011"
+      },
+      "sales_points": {
+        "pr_short": "◆3時間 飲み放題付コース4,000円 ◆二次会プラン飲み放題付3,000円 ◆全席完全個室（カラオケ付）2～120名迄 ◆宴会・歓送迎会・女子会・プライベート利用に！",
+        "pr_long": "◆月～金曜日は、翌朝5：00迄営業!<BR>◆ご予約受付中!【コース当日予約OK!】<BR>□━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━□<BR> ┃◆当店イチオシ！コース【全コース飲み放題付】 ┃<BR>┃《本格中華料理全10品》3時間 4,000円 ┃<BR>┃《本格中華料理全11品》3時間 5,000円【月・土曜は最大4.5時間】┃<BR>┃●食べ放題コース  ┃<BR>┃《手作り飲茶15種食べ放題＆料理3品》2.5時間 4,000円 ┃<BR>□━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━□<BR>◆お祝い・歓送迎会に【メッセージ付デザートプレート】＆【大型モニターメッセージ無料】<BR>◆プロジェクターにPC・ipad接続OK!<BR>◆フロア貸切最大55名迄"
+      },
+      "access": "地下鉄銀座駅C1・C2・C3出口 徒歩5分  ＪＲ有楽町駅日比谷口 徒歩5分  ＪＲ新橋駅銀座口 徒歩5分  地下鉄新橋駅5番出口 徒歩5分  地下鉄日比谷駅A13出口 徒歩5分  ゆりかもめ新橋駅A3出口 徒歩5分  都営三田線内幸町駅A5出口 徒歩5分",
+      "budget": "4000",
+      "credit_card": "VISA,UC,DC,UFJ,ダイナースクラブ,アメリカン・エキスプレス,JCB,NICOS,セゾン,MUFG",
+      "categories": {
+        "category": "完全個室 本格中華料理",
+        "category_name_l": [
+          "宴会・カラオケ・エンターテイメント",
+          "中華"
+        ],
+        "category_name_s": [
+          "カラオケボックス",
+          "中華料理"
+        ]
+      },
+      "flags": {
+        "mobile_site": "1",
+        "mobile_coupon": "1",
+        "pc_coupon": "1"
+      },
+      "location": {
+        "latitude": "35.667864",
+        "longitude": "139.763436",
+        "latitude_wgs84": "35.671010",
+        "longitude_wgs84": "139.760208",
+        "area": {
+          "district": "関東",
+          "prefname": "東京都",
+          "areaname_s": "銀座（東急プラザ・コリドー街方面）"
+        }
+      },
+      "url": "https://r.gnavi.co.jp/g064200/?ak=XY3Fo%2F8BbCJCjr9ZLgBZSkueRqwAyp4kKwTbc39aPiU%3D",
+      "url_mobile": "http://mobile.gnavi.co.jp/shop/g064200/?ak=XY3Fo%2F8BbCJCjr9ZLgBZSkueRqwAyp4kKwTbc39aPiU%3D",
+      "image_url": {
+        "thumbnail": "https://uds.gnst.jp/rest/img/c4x6w86a0000/t_00zu.jpg?t=1486063805&g=80",
+        "qrcode": "https://c-r.gnst.jp/tool/qr/?id=g064200&q=6"
+      }
+    },
+    {
+      "@attributes": {
+        "order": "2"
+      },
+      "id": "gct6516",
+      "update_date": "2017-02-01 07:21:31",
+      "name": {
+        "name": "鶏バル 鶏じろう 新宿店",
+        "name_kana": "トリバルトリジロウ シンジュクテン"
+      },
+      "business_hour": "月～木・日 17:00～翌1:00(※17時迄のご来店は事前予約が必要となりますのでご了承下さい。)<BR>金・土・祝前日 17:00～翌5:00(※17時迄のご来店は事前予約が必要となりますのでご了承下さい。)",
+      "holiday": "年中無休<BR>※コースご予約のお客様に関しまして、当日、大幅な人数変更がありましたらキャンセル料が発生する場合があります。  コース料理のキャンセルは、前日までお願いします。連絡なしの当日キャンセルは、コース料金の５０％を頂いております。当店はサービス料として10％頂いております。",
+      "contacts": {
+        "address": "〒160-0021 東京都新宿区歌舞伎町1-17-5 Jビル2F",
+        "tel": "050-5786-1885",
+        "fax": {}
+      },
+      "sales_points": {
+        "pr_short": "【新宿駅徒歩３分の個室居酒屋】 ３時間飲み放題付９品ラムチョップも入って２,９８０円。 大人気♪ローストビーフ＆チーズフォンデュ食べ放題\"９８０円\"",
+        "pr_long": "【厳選食材とこだわりの料理】新宿駅近の本格肉バル料理居酒屋がＮＥＷＯＰＥＮ♪<BR>赤字覚悟の様々なお肉を炭火やオーブンでじっくり焼き、ホクホクの状態でご提供致します！<BR>▼お得な３時間飲み放題付宴会コース<BR>ラムチョップも入った、鶏バル特別コース全９品付いてなんと⇒２,９８０円♪<BR>その他にもお得な飲み放題付きコースを多数ご用意！詳しくはメニューページをチェック！<BR>▼当店自慢！食べ放題プラン◎<BR>和牛ローストビーフ＋チーズフォンデュ食べ放題⇒2,000円⇒９８０円!!<BR>▼個室<BR>2～6名様 テーブル席半個室 / 2～50名様 掘りごたつ完全個室<BR>4～20名様 お座敷完全個室 / 最大70名様でご宴会可能です！<BR>▼貸切<BR>50名様～70名様で貸切承ります！<BR>▼お得な特典情報<BR>平日限定(日～木)2時間飲み放題【９９９円】!!<BR>幹事無料クーポンもあり◎"
+      },
+      "access": "ＪＲ新宿駅 徒歩3分  地下鉄丸ノ内線新宿駅 徒歩3分  西武新宿線西武新宿駅 徒歩1分",
+      "budget": "2500",
+      "credit_card": "VISA,MasterCard,ダイナースクラブ,アメリカン・エキスプレス,JCB",
+      "categories": {
+        "category": "新宿 個室 居酒屋 肉",
+        "category_name_l": [
+          "居酒屋",
+          {
+            "@attributes": {
+              "order": "1"
+            }
+          }
+        ],
+        "category_name_s": [
+          "居酒屋",
+          {
+            "@attributes": {
+              "order": "1"
+            }
+          }
+        ]
+      },
+      "flags": {
+        "mobile_site": "1",
+        "mobile_coupon": "1",
+        "pc_coupon": "1"
+      },
+      "location": {
+        "latitude": "35.690775",
+        "longitude": "139.704358",
+        "latitude_wgs84": "35.694011",
+        "longitude_wgs84": "139.701143",
+        "area": {
+          "district": "関東",
+          "prefname": "東京都",
+          "areaname_s": "新宿東口・歌舞伎町"
+        }
+      },
+      "url": "https://r.gnavi.co.jp/3j4wpp600000/?ak=XY3Fo%2F8BbCJCjr9ZLgBZSkueRqwAyp4kKwTbc39aPiU%3D",
+      "url_mobile": "http://mobile.gnavi.co.jp/shop/gct6516/?ak=XY3Fo%2F8BbCJCjr9ZLgBZSkueRqwAyp4kKwTbc39aPiU%3D",
+      "image_url": {
+        "thumbnail": "https://uds.gnst.jp/rest/img/3j4wpp600000/t_0n6y.jpg?t=1486098085&g=80",
+        "qrcode": "https://c-r.gnst.jp/tool/qr/?id=gct6516&q=6"
+      }
+    },
+    {
+      "@attributes": {
+        "order": "3"
+      },
+      "id": "gej5600",
+      "update_date": "2017-02-03 02:45:19",
+      "name": {
+        "name": "完全個室 × 九州料理居酒屋 うみきん‐UMIKIN‐ 渋谷店",
+        "name_kana": "カンゼンコシツキュウシュウリョウリイザカヤ ウミキンシブヤテン"
+      },
+      "business_hour": " ランチ：12:00～15:00<BR>月～木・日・祝日 ディナー：16:00～24:00(L.O.23:30)<BR>金・土・祝前日 ディナー：16:00～翌5:00(L.O.4:30)",
+      "holiday": "年中無休",
+      "contacts": {
+        "address": "〒150-0042 東京都渋谷区宇田川町26-4 Lu82ビル4F",
+        "tel": "050-5785-9579",
+        "fax": {}
+      },
+      "sales_points": {
+        "pr_short": "渋谷駅1分！扉付個室で馬肉しゃぶしゃぶを堪能 3時間飲み放題付コース2980円～！海鮮料理や鍋付プランも♪ ご宴会,女子会,新年会に！最大130名様までの団体貸切OK◎",
+        "pr_long": "渋谷駅ハチ公口1分の好アクセス☆扉付個室にご案内！<BR>真鯛の抹茶しゃぶしゃぶ,話題沸騰中の本場火鍋は絶品です！<BR>うみきんでしか味わうことができない豪華料理が盛りだくさん。<BR>お得な飲み放題が付いたプランも多数ご用意致しております◎<BR><BR>■3時間飲み放題付ご宴会プラン■<BR>お料理全9品『春日』コース 4000円⇒3000円<BR>お料理全9品『旭』コース  4500円⇒3500円<BR>お料理全9品『向陽』コース 4980円⇒3980円<BR>■2.5時間食べ飲み放題プラン■<BR>全7品『満腹食べ放題』コース 3980円⇒2980円<BR>■ 毎日使えるお得なクーポン■<BR>・幹事様に嬉しい特典コース専用クーポン【お会計10%OFF】※ご利用条件あり<BR>・2時間飲み放題2500円⇒1500円！<BR>貸切宴会は最大130名様までOK！結婚式の二次会や合コン、サークル飲みに！<BR>渋谷で個室居酒屋なら新年会なら≪うみきん 渋谷店≫へ！"
+      },
+      "access": "ＪＲ渋谷駅ハチ公口 徒歩1分  東急東横線渋谷駅3番出口 徒歩1分  地下鉄渋谷駅3番出口 徒歩1分  京王井の頭線渋谷駅 徒歩1分",
+      "budget": "3000",
+      "credit_card": "VISA,MasterCard",
+      "categories": {
+        "category": "渋谷扉付完全個室居酒屋",
+        "category_name_l": [
+          "居酒屋",
+          {
+            "@attributes": {
+              "order": "1"
+            }
+          }
+        ],
+        "category_name_s": [
+          "居酒屋",
+          {
+            "@attributes": {
+              "order": "1"
+            }
+          }
+        ]
+      },
+      "flags": {
+        "mobile_site": "1",
+        "mobile_coupon": "1",
+        "pc_coupon": "1"
+      },
+      "location": {
+        "latitude": "35.656719",
+        "longitude": "139.702161",
+        "latitude_wgs84": "35.659960",
+        "longitude_wgs84": "139.698950",
+        "area": {
+          "district": "関東",
+          "prefname": "東京都",
+          "areaname_s": "センター街・公園通り"
+        }
+      },
+      "url": "https://r.gnavi.co.jp/dmn9uyc70000/?ak=XY3Fo%2F8BbCJCjr9ZLgBZSkueRqwAyp4kKwTbc39aPiU%3D",
+      "url_mobile": "http://mobile.gnavi.co.jp/shop/gej5600/?ak=XY3Fo%2F8BbCJCjr9ZLgBZSkueRqwAyp4kKwTbc39aPiU%3D",
+      "image_url": {
+        "thumbnail": "https://uds.gnst.jp/rest/img/dmn9uyc70000/t_002g.jpg?t=1486068112&g=80",
+        "qrcode": "https://c-r.gnst.jp/tool/qr/?id=gej5600&q=6"
+      }
+    },
+    {
+      "@attributes": {
+        "order": "4"
+      },
+      "id": "g747789",
+      "update_date": "2017-02-03 04:55:49",
+      "name": {
+        "name": "全席個室 楽蔵うたげ 品川港南口店",
+        "name_kana": "ゼンセキコシツラクゾウウタゲ シナガワコウナングチテン"
+      },
+      "business_hour": "月～日 17:00～23:30((営業時間前早宴会可))",
+      "holiday": "無",
+      "contacts": {
+        "address": "〒108-0075 東京都港区港南2-5-14 カナーレ品川",
+        "tel": "050-3476-8405",
+        "fax": {}
+      },
+      "sales_points": {
+        "pr_short": "★品川駅港南口から2分の駅近！ ★全席完全個室♪2-70様ご用意 ★ご宴会、歓送迎会は完全個室で♪ ★２Ｈ宴会4000円～",
+        "pr_long": "宴会ご予約受付中→→ 『メニュー』→『冬宴会コース』より<BR>◆特別なご宴会に、ワンランク上のプレミアムなひと時を<BR>・黒毛和牛の炙り懐石コース＋2Hプレミア飲み放題7236円→6500円<BR>・国産牛すき焼きコース+2Hプレミア飲み放題7236円→6500円<BR>◆土日祝日限定<BR>創作コース（Wメイン）＋2H飲み放題 4536円→4000円 3Hで5616円→4500円♪<BR><BR>品川で個室で接待、会食、宴会、飲み放題に人気！完全個室、団体、大人数にもおすすめ！和食で飲み会！"
+      },
+      "access": "ＪＲ品川駅港南口 徒歩3分",
+      "budget": "3500",
+      "credit_card": "VISA,UC,DC,ダイナースクラブ,アメリカン・エキスプレス,JCB,NICOS,オリコ,MUFG",
+      "categories": {
+        "category": "全席完全個室 和食",
+        "category_name_l": [
+          "居酒屋",
+          {
+            "@attributes": {
+              "order": "1"
+            }
+          }
+        ],
+        "category_name_s": [
+          "居酒屋",
+          {
+            "@attributes": {
+              "order": "1"
+            }
+          }
+        ]
+      },
+      "flags": {
+        "mobile_site": "1",
+        "mobile_coupon": "1",
+        "pc_coupon": "1"
+      },
+      "location": {
+        "latitude": "35.625186",
+        "longitude": "139.746072",
+        "latitude_wgs84": "35.628426",
+        "longitude_wgs84": "139.742835",
+        "area": {
+          "district": "関東",
+          "prefname": "東京都",
+          "areaname_s": "品川（アトレ品川・インターシティ方面）"
+        }
+      },
+      "url": "https://r.gnavi.co.jp/g747789/?ak=XY3Fo%2F8BbCJCjr9ZLgBZSkueRqwAyp4kKwTbc39aPiU%3D",
+      "url_mobile": "http://mobile.gnavi.co.jp/shop/g747789/?ak=XY3Fo%2F8BbCJCjr9ZLgBZSkueRqwAyp4kKwTbc39aPiU%3D",
+      "image_url": {
+        "thumbnail": "https://uds.gnst.jp/rest/img/r1rhe61w0000/t_0n7o.jpg?t=1486066641&g=80",
+        "qrcode": "https://c-r.gnst.jp/tool/qr/?id=g747789&q=6"
+      }
+    },
+    {
+      "@attributes": {
+        "order": "5"
+      },
+      "id": "p458303",
+      "update_date": "2017-02-01 06:54:05",
+      "name": {
+        "name": "厳選産地の肉三昧 日本列島 新宿東口店",
+        "name_kana": "ゲンセンサンチノニクザンマイニホンレットウ シンジュクヒガシグチテン"
+      },
+      "business_hour": "月～木・日 17:00～24:00<BR>金・土・祝前日 17:00～翌3:30(※24時～27時半までは03-6380-3078までお問い合わせ下さい。)",
+      "holiday": "無",
+      "contacts": {
+        "address": "〒160-0021 東京都新宿区歌舞伎町1-17-13 Ｊ1ビル5F",
+        "tel": "050-5522-6925",
+        "fax": "03-6914-2412"
+      },
+      "sales_points": {
+        "pr_short": "【新宿駅近】肉料理専門店×個室居酒屋 【肉三昧宴会】最大3時間飲み放題付2980円～ 【食べ飲み放題】黒豚・和牛しゃぶしゃぶ食べ放題3380円～ 【個室】2名様～団体様迄",
+        "pr_long": "《新宿歌舞伎町に新登場!!肉料理専門店 個室居酒屋 日本列島 新宿店》<BR>～全国各地の銘柄肉を使用した肉三昧料理～<BR>・三重県産A5ランク松坂牛 ・宮崎県産A4ランク黒毛和牛 ・鹿児島県産薩摩地鶏<BR>・長崎県産SPF芳寿豚 ・熊本県産霜降り馬肉 ・青森県産合鴨肉 …等<BR>⇒肉の旨味を最大限に引き出した『旨い』をご提供！<BR>◆情緒漂う寛ぎの個室空間<BR>2名様～団体様までご対応可能なプライベート個室空間<BR>⇒女子会や合コン、接待や歓送迎会に最適♪<BR><BR>◆肉料理専門店ならではのコスパ《最大3時間飲み放題付きコース》<BR>『奥州コース』全７品 2980円<BR>『上州コース』全８品 3480円<BR>『紀州コース』全10品 3980円<BR>◆しゃぶしゃぶ《食べ放題コース》<BR>⇒鹿児島県産黒豚と宮崎県産黒毛和牛のしゃぶしゃぶ食べ放題 3380円～<BR>《宴会特典多数ご用意♪》"
+      },
+      "access": "ＪＲ新宿駅東口 徒歩3分  西武新宿線西武新宿駅 徒歩3分  地下鉄丸ノ内線新宿駅 徒歩3分",
+      "budget": "2450",
+      "credit_card": {},
+      "categories": {
+        "category": "肉料理専門×個室居酒屋",
+        "category_name_l": [
+          "居酒屋",
+          {
+            "@attributes": {
+              "order": "1"
+            }
+          }
+        ],
+        "category_name_s": [
+          "居酒屋",
+          {
+            "@attributes": {
+              "order": "1"
+            }
+          }
+        ]
+      },
+      "flags": {
+        "mobile_site": "1",
+        "mobile_coupon": "1",
+        "pc_coupon": "1"
+      },
+      "location": {
+        "latitude": "35.690742",
+        "longitude": "139.704608",
+        "latitude_wgs84": "35.693973",
+        "longitude_wgs84": "139.701395",
+        "area": {
+          "district": "関東",
+          "prefname": "東京都",
+          "areaname_s": "新宿東口・歌舞伎町"
+        }
+      },
+      "url": "http://r.gnavi.co.jp/p458303/?ak=XY3Fo%2F8BbCJCjr9ZLgBZSkueRqwAyp4kKwTbc39aPiU%3D",
+      "url_mobile": "http://mobile.gnavi.co.jp/shop/p458303/?ak=XY3Fo%2F8BbCJCjr9ZLgBZSkueRqwAyp4kKwTbc39aPiU%3D",
+      "image_url": {
+        "thumbnail": "https://uds.gnst.jp/rest/img/r0gja4u60000/t_0n5i.jpg?t=1486061284&g=80",
+        "qrcode": "https://c-r.gnst.jp/tool/qr/?id=p458303&q=6"
+      }
+    },
+    {
+      "@attributes": {
+        "order": "6"
+      },
+      "id": "gdh3206",
+      "update_date": "2017-02-03 02:17:29",
+      "name": {
+        "name": "完全個室居酒屋 月の響 渋谷駅前店",
+        "name_kana": "カンゼンコシツイザカヤツキノヒビキ シブヤエキマエテン"
+      },
+      "business_hour": "月～金 ランチ：14:00～17:00<BR>土・日・祝日 ランチ：14:00～15:00<BR>月～金・祝前日 ディナー：17:00～翌5:00(L.O.4:30)<BR>土・日・祝日 ディナー：15:00～翌5:00(L.O.4:30)",
+      "holiday": "年中無休",
+      "contacts": {
+        "address": "〒150-0002 東京都渋谷区渋谷1-25-6 渋谷パークサイド共同ビル2F",
+        "tel": "050-5783-2073",
+        "fax": "03-3518-2793"
+      },
+      "sales_points": {
+        "pr_short": "【渋谷駅1分×完全個室】旬のお鍋と極上の熟成豚 最大3時間飲み放題付2980円～♪幹事無料や誕生日特典有◎ 焼きしゃぶ食べ放題3980円より◎貸切最大110名迄！",
+        "pr_long": "【オシャレな個室へご案内】<BR>渋谷駅徒歩0分。駅が近くゆっくりとお寛ぎいただけます。全席個室席なので、ご接待や大切な方との記念日にも最適です。<BR>歓迎会・送別会・飲み会にも◎<BR>築地直送の鮮魚や、契約農家直送の新鮮なお野菜など、幅広い方に支持される自慢の一品を是非お召し上がり下さい。<BR>【旬のお鍋付き宴会プラン】<BR>3時間飲み放題付き「選べる旬の贅沢お鍋3種」【8品/2980円】<BR>【極上熟成豚の焼きしゃぶ宴会プラン】<BR>3時間飲み放題付き「熟成豚の焼きしゃぶ」【8品/3480円】<BR>3時間飲み放題付き「熟成豚の焼きしゃぶ食べ放題」【8品/3980円】<BR>【お得なクーポン】<BR>毎日使える！お会計から20％OFF<BR>誕生日デザートプレート無料特典<BR>昼宴会や貸切のご予約も受付中！"
+      },
+      "access": "ＪＲ渋谷駅 徒歩1分  地下鉄銀座線渋谷駅 徒歩1分  東急東横線渋谷駅 徒歩1分",
+      "budget": "2980",
+      "credit_card": {},
+      "categories": {
+        "category": "渋谷ハチ公前個室居酒屋",
+        "category_name_l": [
+          "居酒屋",
+          {
+            "@attributes": {
+              "order": "1"
+            }
+          }
+        ],
+        "category_name_s": [
+          "居酒屋",
+          {
+            "@attributes": {
+              "order": "1"
+            }
+          }
+        ]
+      },
+      "flags": {
+        "mobile_site": "1",
+        "mobile_coupon": "1",
+        "pc_coupon": "1"
+      },
+      "location": {
+        "latitude": "35.656492",
+        "longitude": "139.704689",
+        "latitude_wgs84": "35.659733",
+        "longitude_wgs84": "139.701476",
+        "area": {
+          "district": "関東",
+          "prefname": "東京都",
+          "areaname_s": "渋谷東口・宮益坂"
+        }
+      },
+      "url": "https://r.gnavi.co.jp/2bbpj0th0000/?ak=XY3Fo%2F8BbCJCjr9ZLgBZSkueRqwAyp4kKwTbc39aPiU%3D",
+      "url_mobile": "http://mobile.gnavi.co.jp/shop/gdh3206/?ak=XY3Fo%2F8BbCJCjr9ZLgBZSkueRqwAyp4kKwTbc39aPiU%3D",
+      "image_url": {
+        "thumbnail": "https://uds.gnst.jp/rest/img/2bbpj0th0000/t_0n64.jpg?t=1486072756&g=80",
+        "qrcode": "https://c-r.gnst.jp/tool/qr/?id=gdh3206&q=6"
+      }
+    },
+    {
+      "@attributes": {
+        "order": "7"
+      },
+      "id": "gdbn200",
+      "update_date": "2017-02-03 05:37:27",
+      "name": {
+        "name": "完全個室居酒屋 TOTORIKO  ～ととりこ～ 新宿東口店",
+        "name_kana": "カンゼンコシツイザカヤ トトリコシンジュクヒガシグチテン"
+      },
+      "business_hour": "月～木・日 16:00～24:00(L.O.23:30、ドリンクL.O.23:30)(昼宴会承ります！※17時迄のご来店は事前予約が必要となりますのでご了承下さい。)<BR>金・土・祝前日 16:00～翌5:00(L.O.4:30、ドリンクL.O.4:30)(昼宴会承ります！※17時迄のご来店は事前予約が必要となりますのでご了承下さい。)",
+      "holiday": "年中無休",
+      "contacts": {
+        "address": "〒160-0021 東京都新宿区歌舞伎町1-14-4 川新ビル8F",
+        "tel": "050-5785-6312",
+        "fax": {}
+      },
+      "sales_points": {
+        "pr_short": "新宿駅東口徒歩1分！3周年記念お料理全品30％OFF企画実施中 【今月限定】全コース1000円OFF！【冬の名物】もつ鍋が人気！ 飲放3H付2480円～!最大150名迄の完全個室！",
+        "pr_long": "■3周年特別企画■<BR>・お料理全品30％OFF!!始めました！<BR>★ぐるなび限定企画★<BR>・【日～木曜日限定】2.5ｈ飲み放題980円！今なら断然お得☆<BR>・全コース1000円OFF・全コース3Hにグレードアップ！<BR>◆TOTORIKOではとにかく『コレ』を食べよ!<BR>・今の季節にピッタリ『博多牛もつ鍋』〆は雑炊で！<BR>・コシヒカリのカレー米粉で揚げる!新潟ソウルフードの『カレー唐揚げ』<BR><BR>《各種ご宴会のご予約承り中♪》<BR>◆合コン・飲み会の幹事様におすすめ！今なら全コース1000円引！ 100名様までどんな人数様にも完全個室対応致します。最大3時間! ⇒メッセージプレートプレゼント★<BR>◆完全個室店内<BR>・4～6名様のテーブル個室<BR>・8～16名の掘りごたつ個室×5部屋⇒最大100名OK!モニター完備"
+      },
+      "access": "ＪＲ新宿駅東口 徒歩1分  地下鉄新宿駅 徒歩3分",
+      "budget": "2770",
+      "credit_card": "VISA,MasterCard,UC,DC,UFJ,ダイナースクラブ,アメリカン・エキスプレス,JCB,NICOS,アプラス,セゾン,J-DEBIT,MUFG",
+      "categories": {
+        "category": "新宿 個室居酒屋合コン",
+        "category_name_l": [
+          "鍋",
+          {
+            "@attributes": {
+              "order": "1"
+            }
+          }
+        ],
+        "category_name_s": [
+          "鍋料理",
+          {
+            "@attributes": {
+              "order": "1"
+            }
+          }
+        ]
+      },
+      "flags": {
+        "mobile_site": "1",
+        "mobile_coupon": "1",
+        "pc_coupon": "1"
+      },
+      "location": {
+        "latitude": "35.691258",
+        "longitude": "139.705189",
+        "latitude_wgs84": "35.694493",
+        "longitude_wgs84": "139.701975",
+        "area": {
+          "district": "関東",
+          "prefname": "東京都",
+          "areaname_s": "新宿東口・歌舞伎町"
+        }
+      },
+      "url": "https://r.gnavi.co.jp/mupdejat0000/?ak=XY3Fo%2F8BbCJCjr9ZLgBZSkueRqwAyp4kKwTbc39aPiU%3D",
+      "url_mobile": "http://mobile.gnavi.co.jp/shop/gdbn200/?ak=XY3Fo%2F8BbCJCjr9ZLgBZSkueRqwAyp4kKwTbc39aPiU%3D",
+      "image_url": {
+        "thumbnail": "https://uds.gnst.jp/rest/img/mupdejat0000/t_00by.jpg?t=1486083801&g=80",
+        "qrcode": "https://c-r.gnst.jp/tool/qr/?id=gdbn200&q=6"
+      }
+    },
+    {
+      "@attributes": {
+        "order": "8"
+      },
+      "id": "kc8t100",
+      "update_date": "2017-02-01 03:20:40",
+      "name": {
+        "name": "個室和食 北新地 曉 ",
+        "name_kana": "コシツワショクキタシンチアカツキ"
+      },
+      "business_hour": " 16:00～24:00",
+      "holiday": "年中無休<BR>年末年始（2016年1月1日～2016年1月3日）",
+      "contacts": {
+        "address": "〒530-0002 大阪府大阪市北区曽根崎新地1-3-9 GOTS北新地2F",
+        "tel": "050-5787-3147",
+        "fax": "06-6131-6404"
+      },
+      "sales_points": {
+        "pr_short": "北新地駅、西梅田駅から徒歩1分！ 完全個室で2名～50名様まで 産地直送！旬の食材こだわり有り!! TV取材あり、芸能人多数御来店！飲み放題付コース4,000円～",
+        "pr_long": "料理長が日本各地に赴き、自分達の目で厳選した食材を調達。<BR>お客さまに本当に喜んでいただけるものをご準備しました！<BR>各地から取り寄せた食材での創作料理、地酒などを取り揃え、<BR>ゆったりとした個室空間でのお食事を、ぜひお楽しみください♪<BR><BR>歓送迎会・新年会・各種宴会に！飲み放題付コースは4,000円～ご用意！<BR>プレミアム飲み放題プラン 獺祭や純米大吟醸酒含む地酒飲み放題付 ＋1,500円<BR>◆◇◆旬鮮魚お造り盛合せ、車海老の天ぷら、A5ランクの佐賀牛ステーキ付 雅コース 6,000円◆◇◆<BR>◆◇◆コース＋1500円で獺祭、八海山、黒龍プレミアム飲み放題◆◇◆<BR>黒毛和牛のすき焼き・しゃぶしゃぶもご用意しています。<BR>人気の完全個室はテーブル席と掘りごたつがございます。は2名様～50名様までご用意！"
+      },
+      "access": "ＪＲ東西線北新地駅 徒歩3分  地下鉄四つ橋線西梅田駅 徒歩3分",
+      "budget": "4000",
+      "credit_card": "VISA,MasterCard,UC,ダイナースクラブ,アメリカン・エキスプレス,JCB,アプラス,セゾン,J-DEBIT,MUFG",
+      "categories": {
+        "category": "北新地 和食 個室",
+        "category_name_l": [
+          "居酒屋",
+          {
+            "@attributes": {
+              "order": "1"
+            }
+          }
+        ],
+        "category_name_s": [
+          "居酒屋",
+          {
+            "@attributes": {
+              "order": "1"
+            }
+          }
+        ]
+      },
+      "flags": {
+        "mobile_site": "1",
+        "mobile_coupon": "1",
+        "pc_coupon": "1"
+      },
+      "location": {
+        "latitude": "34.694275",
+        "longitude": "135.499111",
+        "latitude_wgs84": "34.697518",
+        "longitude_wgs84": "135.496299",
+        "area": {
+          "district": "関西",
+          "prefname": "大阪府",
+          "areaname_s": "北新地"
+        }
+      },
+      "url": "http://r.gnavi.co.jp/khg6xr5b0000/?ak=XY3Fo%2F8BbCJCjr9ZLgBZSkueRqwAyp4kKwTbc39aPiU%3D",
+      "url_mobile": "http://mobile.gnavi.co.jp/shop/kc8t100/?ak=XY3Fo%2F8BbCJCjr9ZLgBZSkueRqwAyp4kKwTbc39aPiU%3D",
+      "image_url": {
+        "thumbnail": "https://uds.gnst.jp/rest/img/khg6xr5b0000/t_0n5u.jpg?t=1486071456&g=80",
+        "qrcode": "https://c-r.gnst.jp/tool/qr/?id=kc8t100&q=6"
+      }
+    },
+    {
+      "@attributes": {
+        "order": "9"
+      },
+      "id": "gdan510",
+      "update_date": "2017-02-03 01:51:46",
+      "name": {
+        "name": "新宿個室居酒屋 KEY BAR SEA ～きばらし～",
+        "name_kana": "シンジュクコシツイザカヤ キバラシ"
+      },
+      "business_hour": "月～木・日 15:00～翌1:00<BR>金・土 15:00～翌5:00(※昼のご宴会は11:30～要予約にて承ります。)",
+      "holiday": "年中無休<BR>※12/31-1/3 お休み致します。",
+      "contacts": {
+        "address": "〒160-0021 東京都新宿区歌舞伎町1-6-14 第2ショーリビル4F",
+        "tel": "050-5320-0228",
+        "fax": {}
+      },
+      "sales_points": {
+        "pr_short": "【NEWOPEN】新宿で話題の個室居酒屋 特選牛&黒豚&有機野菜しゃぶしゃぶ食べ飲み放題3h2980円 旬の贅沢串焼き食べ放題！ 寛ぎの個室は2名様からご利用可能",
+        "pr_long": "【しゃぶしゃぶ&鍋】<BR>3時間飲み放題付き「特選牛&黒豚しゃぶしゃぶ&有機野菜食べ放題」【3980円→2980円】<BR>3時間飲み放題付き「旬の選べる鍋4種食べ放題」【3500円→2500円】<BR>【串焼き&串揚げ】<BR>3時間プレミアム飲み放題付き「旬の贅沢串焼き食べ放題」【5000円→4000円】<BR>3時間飲み放題付き「自家製串揚げ食べ放題」【3000円】<BR>【旬のご宴会コース】<BR>3時間プレミアム飲み放題付き「旬の贅沢宴会コース」【3500円】<BR>【お得なクーポン多数】<BR>誕生日・記念日無料特典あり！<BR>幹事様無料クーポンあり♪<BR><BR>【個室も多数完備】<BR>ゆったりと寛げる個室で2名様からご利用可能です。"
+      },
+      "access": "ＪＲ新宿駅東口 徒歩2分  地下鉄丸ノ内線新宿駅B11番出口 徒歩2分  西武新宿線西武新宿駅 徒歩4分  都営新宿線新宿三丁目駅C6番出口 徒歩6分",
+      "budget": "2980",
+      "credit_card": {},
+      "categories": {
+        "category": "新宿 個室 鍋食べ放題",
+        "category_name_l": [
+          "居酒屋",
+          {
+            "@attributes": {
+              "order": "1"
+            }
+          }
+        ],
+        "category_name_s": [
+          "居酒屋",
+          {
+            "@attributes": {
+              "order": "1"
+            }
+          }
+        ]
+      },
+      "flags": {
+        "mobile_site": "1",
+        "mobile_coupon": "1",
+        "pc_coupon": "1"
+      },
+      "location": {
+        "latitude": "35.690450",
+        "longitude": "139.706031",
+        "latitude_wgs84": "35.693685",
+        "longitude_wgs84": "139.702816",
+        "area": {
+          "district": "関東",
+          "prefname": "東京都",
+          "areaname_s": "新宿東口・歌舞伎町"
+        }
+      },
+      "url": "https://r.gnavi.co.jp/3hxfut4z0000/?ak=XY3Fo%2F8BbCJCjr9ZLgBZSkueRqwAyp4kKwTbc39aPiU%3D",
+      "url_mobile": "http://mobile.gnavi.co.jp/shop/gdan510/?ak=XY3Fo%2F8BbCJCjr9ZLgBZSkueRqwAyp4kKwTbc39aPiU%3D",
+      "image_url": {
+        "thumbnail": "https://uds.gnst.jp/rest/img/3hxfut4z0000/t_0n6r.jpg?t=1486073066&g=80",
+        "qrcode": "https://c-r.gnst.jp/tool/qr/?id=gdan510&q=6"
+      }
+    }
+  ]
+}
