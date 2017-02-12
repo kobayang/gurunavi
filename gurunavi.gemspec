@@ -11,8 +11,8 @@ Gem::Specification.new do |s|
   s.required_rubygems_version = Gem::Requirement.new(">= 0".freeze) if s.respond_to? :required_rubygems_version=
   s.require_paths = ["lib".freeze]
   s.authors = ["kobayang".freeze]
-  s.date = "2017-02-03"
-  s.description = "A Gurunavi API wrapper of ruby gems".freeze
+  s.date = "2017-02-12"
+  s.description = "A Ruby wrapper for the Gurunavi API".freeze
   s.email = "naokiod@gmail.com".freeze
   s.extra_rdoc_files = [
     "LICENSE.txt",
@@ -42,8 +42,8 @@ Gem::Specification.new do |s|
     "test/fixtures/areas/area_search.json",
     "test/fixtures/categories/category_large_search.json",
     "test/fixtures/categories/category_small_search.json",
-    "test/fixtures/errors/error.json",
-    "test/fixtures/errors/error_gnavi.json",
+    "test/fixtures/errors/601_error.json",
+    "test/fixtures/errors/601_error_gnavi.json",
     "test/fixtures/photos/photo_search.json",
     "test/fixtures/prefs/pref_search.json",
     "test/fixtures/rests/foreign_rest_search.json",
@@ -53,6 +53,7 @@ Gem::Specification.new do |s|
     "test/test_areas.rb",
     "test/test_categories.rb",
     "test/test_client.rb",
+    "test/test_errors.rb",
     "test/test_photos.rb",
     "test/test_prefs.rb",
     "test/test_rests.rb"
@@ -60,7 +61,7 @@ Gem::Specification.new do |s|
   s.homepage = "http://github.com/kobayang/gurunavi".freeze
   s.licenses = ["MIT".freeze]
   s.rubygems_version = "2.5.2".freeze
-  s.summary = "A Gurunavi API wrapper of ruby gems".freeze
+  s.summary = "A Ruby wrapper for the Gurunavi API".freeze
 
   if s.respond_to? :specification_version then
     s.specification_version = 4
