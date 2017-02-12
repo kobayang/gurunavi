@@ -78,6 +78,18 @@ module Gurunavi
       response_body
     end
 
+    # Helper method to wrap object into array.
+    #
+    # this use case is return a object for Gurunavi API when hit per page is 1.
+    def convert_to_array_if_needed(response_body)
+      unless response_body.instance_of?(Hashie::Array)
+        array = Hashie::Array.new
+        array.push(response_body)
+        return array
+      end
+      response_body
+    end
+
     private
 
       def default_headers

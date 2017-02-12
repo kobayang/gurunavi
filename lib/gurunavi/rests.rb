@@ -1,3 +1,5 @@
+require 'hashie'
+
 module Gurunavi
   module Rests
 
@@ -6,7 +8,8 @@ module Gurunavi
       response = connection.get do |req|
         req.url "RestSearchAPI/#{@api_version}", options
       end
-      return_error_or_body(response, response.body.rest)
+      response_body = return_error_or_body(response, response.body.rest)
+      convert_to_array_if_needed(response_body)
     end
 
     # Ref: http://api.gnavi.co.jp/api/manual/foreignrestsearch/
@@ -14,8 +17,8 @@ module Gurunavi
       response = connection.get do |req|
         req.url "ForeignRestSearchAPI/#{@api_version}", options
       end
-      return_error_or_body(response, response.body.rest)
+      response_body = return_error_or_body(response, response.body.rest)
+      convert_to_array_if_needed(response_body)
     end
-
   end
 end

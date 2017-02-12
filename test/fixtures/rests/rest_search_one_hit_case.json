@@ -1,0 +1,99 @@
+{
+  "@attributes": {
+    "api_version": "20150630"
+  },
+  "total_hit_count": "41",
+  "hit_per_page": "10",
+  "page_offset": "5",
+  "rest": {
+    "@attributes": {
+      "order": "0"
+    },
+    "id": "5213224",
+    "update_date": "2015-08-28 05:35:19",
+    "name": "城門 ",
+    "name_kana": "ジョウモン",
+    "latitude": "36.038486",
+    "longitude": "140.105486",
+    "category": "ホルモン",
+    "url": "http://r.gnavi.co.jp/8ncn7swe0000/?ak=SUQUyeTkNn9iEGa%2FQ4Hr8VjHYUU2FXMOQv7k9OMxwi0%3D",
+    "url_mobile": "http://mobile.gnavi.co.jp/shop/5213224/?ak=SUQUyeTkNn9iEGa%2FQ4Hr8VjHYUU2FXMOQv7k9OMxwi0%3D",
+    "coupon_url": {
+      "pc": {},
+      "mobile": {}
+    },
+    "image_url": {
+      "shop_image1": {},
+      "shop_image2": {},
+      "qrcode": "https://c-r.gnst.jp/tool/qr/?id=5213224&q=6"
+    },
+    "address": "〒305-0853 茨城県つくば市榎戸370-2 ",
+    "tel": "029-838-1600",
+    "tel_sub": {},
+    "fax": {},
+    "opentime": {},
+    "holiday": {},
+    "access": {
+      "line": {},
+      "station": {},
+      "station_exit": {},
+      "walk": {},
+      "note": {}
+    },
+    "parking_lots": {},
+    "pr": {
+      "pr_short": {},
+      "pr_long": {}
+    },
+    "code": {
+      "areacode": "AREA110",
+      "areaname": "関東",
+      "prefcode": "PREF08",
+      "prefname": "茨城県",
+      "areacode_s": "AREAS2820",
+      "areaname_s": "その他つくば",
+      "category_code_l": [
+        "RSFST05000",
+        {
+          "@attributes": {
+            "order": "1"
+          }
+        }
+      ],
+      "category_name_l": [
+        "焼肉・ホルモン",
+        {
+          "@attributes": {
+            "order": "1"
+          }
+        }
+      ],
+      "category_code_s": [
+        "RSFST05002",
+        {
+          "@attributes": {
+            "order": "1"
+          }
+        }
+      ],
+      "category_name_s": [
+        "ホルモン",
+        {
+          "@attributes": {
+            "order": "1"
+          }
+        }
+      ]
+    },
+    "budget": {},
+    "party": {},
+    "lunch": {},
+    "credit_card": {},
+    "e_money": {},
+    "flags": {
+      "mobile_site": "1",
+      "mobile_coupon": "0",
+      "pc_coupon": "0"
+    }
+  }
+}
