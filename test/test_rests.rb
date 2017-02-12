@@ -20,5 +20,21 @@ class TestGurunavi < Test::Unit::TestCase
       rests.count.should == 10
     end
 
+    should "raise Gurunavi::InvalidAccess with error.json status is 601" do
+      stub_get("https://api.gnavi.co.jp/RestSearchAPI/20150630?format=json&keyid=#{@client.keyid}", "errors/601_error.json")
+
+      assert_raises(Gurunavi::InvalidAccess) do
+        @client.rest_search
+      end
+    end
+
+    should "raise Gurunavi::NoShop with error.json status is 600" do
+      stub_get("https://api.gnavi.co.jp/RestSearchAPI/20150630?format=json&keyid=#{@client.keyid}", "errors/600_error.json")
+
+      assert_raises(Gurunavi::NoShop) do
+        @client.rest_search
+      end
+    end
+
   end
 end
