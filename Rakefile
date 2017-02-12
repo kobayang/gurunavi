@@ -17,8 +17,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "gurunavi"
   gem.homepage = "http://github.com/kobayang/gurunavi"
   gem.license = "MIT"
-  gem.summary = %Q{A Gurunavi API wrapper of ruby gems}
-  gem.description = %Q{A Gurunavi API wrapper of ruby gems}
+  gem.summary = %Q{A Ruby wrapper for the Gurunavi API}
+  gem.description = %Q{A Ruby wrapper for the Gurunavi API}
   gem.email = "naokiod@gmail.com"
   gem.authors = ["kobayang"]
   # dependencies defined in Gemfile
