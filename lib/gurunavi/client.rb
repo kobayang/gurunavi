@@ -68,8 +68,13 @@ module Gurunavi
     #
     # Added just for convenience to avoid having to traverse farther down the response just to get to returned data.
     def return_error_or_body(response, response_body)
-      raise Gurunavi::APIError.new(response.body["error"]) if response.body["error"]
-      raise Gurunavi::APIError.new(response.body["gnavi"]["error"]) if response.body["gnavi"] && response.body["gnavi"]["error"]
+      error_status = nil
+      error_status = response_body["error"] if response.body["error"]
+      error_status = response_body["gnavi"]["error"] if response.body["gnavi"] && response.body["gnavi"]["error"]
+
+      if error_status
+        raise Gurunavi::APIErrorFactory.call_api_errors(error_status.code, error_status.message)
+      end
       response_body
     end
 
