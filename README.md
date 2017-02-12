@@ -14,7 +14,7 @@ Ruby wrapper for the [gurunavi API](http://api.gnavi.co.jp/api/manual/).
 
 ### Examples
 
-Note: format options use json automatically.
+Note: The key and format options are automatically granted.
 
 #### get infomation of restaurants from [RestSearchAPI](http://api.gnavi.co.jp/api/manual/restsearch/)
 
