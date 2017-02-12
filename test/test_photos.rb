@@ -12,7 +12,9 @@ class TestGurunavi < Test::Unit::TestCase
 
       assert_not_nil(photos)
 
-      # Note: PhotoSearchAPI result is different for other API?
+      photos.count.should == 2
+
+      photos[0].vote_id.should == "1855607"
     end
 
   end
