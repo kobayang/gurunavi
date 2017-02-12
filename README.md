@@ -25,6 +25,22 @@ Note: The key and format options are automatically granted.
     rests = client.rest_search(id: "ga13300")
     rests = client.rest_search(areacode_l: "AREAL2802", category_l: "RSFST05000")
 
+##### get the whole restaurants name example
+
+    index = 1
+    while true
+      begin
+        rests = client.rest_search(areacode_l: "AREAL2802", category_l: "RSFST05000", offset_page: index)
+        rests.each do |rest|
+          puts rest.name
+        end
+        index += 1
+      rescue Gurunavi::NoShop => e
+        break
+      end
+    end
+
+
 See more available options from [manual](http://api.gnavi.co.jp/api/manual/restsearch/).
 
 #### get master of area large code (areacode_l) from [GAreaLargeSearchAPI](http://api.gnavi.co.jp/api/manual/arealmaster/)
@@ -74,6 +90,20 @@ See [the All API lists](http://api.gnavi.co.jp/api/manual/)
 #### CategorySmallSearchAPI
 
     category_s_master = client.category_small_search
+
+## Errors
+
+Gurunavi returns the following error for incorrect response.
+
+| status code |           api errors          |
+|-------------|-------------------------------|
+| 429         | Gurunavi::TooManyAccess       |
+| 600         | Gurunavi::NoShop              |
+| 601         | Gurunavi::InvalidAccess       |
+| 602         | Gurunavi::InvalidShopNumber   |
+| 603         | Gurunavi::InvalidType         |
+| 604         | Gurunavi::InternalServerError |
+| *           | Gurunavi::APIError            |
 
 ## Contributing to gurunavi
 
